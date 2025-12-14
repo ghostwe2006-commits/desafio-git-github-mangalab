@@ -13,3 +13,6 @@ Aprender a:
 
 ## Autor
 Wenderson Guimarães
+
+## Nota
+Esta é uma alteração feita na branch minha-nova-branch
